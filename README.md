@@ -21,4 +21,4 @@ The page contains one card with:
 
 ## Live Page
 
-The link will be added later.
+https://ifaresl.github.io/kku-111ifs-lab1/
